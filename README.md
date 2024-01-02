@@ -19,21 +19,7 @@ The dataset includes information on job postings with the following columns:
 
 ## Dashboard Visualizations
 
-### 1. Job Distribution by Agency
-
-![Job Distribution by Agency](visualization_images/job_distribution_agency.png)
-
-Description: This bar chart displays the count of jobs offered by each agency, providing an overview of job distribution across different agencies in NYC.
-
-### 2. Posting Type Comparison
-
-![Posting Type Comparison](visualization_images/posting_type_comparison.png)
-
-Description: A stacked bar chart illustrating the distribution of posting types (internal vs. external) across all job postings.
-
-### 3. ...
-
-... (Add descriptions and images for other visualizations included in the dashboard)
+NYC JOBS 2023.pdf
 
 ## How to Use
 
