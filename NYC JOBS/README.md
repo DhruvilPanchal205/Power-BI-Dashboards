@@ -44,5 +44,5 @@ Feel free to contribute to enhance this dashboard! Fork the repository, make you
 
 ## Acknowledgments
 
-- Data source: [NYC Open Data](https://www.kaggle.com/datasets/anoopjohny/new-york-city-job-dataset?resource=download)https://www.kaggle.com/datasets/anoopjohny/new-york-city-job-dataset?resource=download
+- Data source: [](https://www.kaggle.com/datasets/anoopjohny/new-york-city-job-dataset?resource=download)https://www.kaggle.com/datasets/anoopjohny/new-york-city-job-dataset?resource=download
 )
