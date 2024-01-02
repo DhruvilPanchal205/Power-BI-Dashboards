@@ -19,7 +19,7 @@ The dataset includes information on job postings with the following columns:
 
 ## Dashboard Visualizations
 
-(NYC JOBS 2023.pdf)
+
 
 ## How to Use
 
