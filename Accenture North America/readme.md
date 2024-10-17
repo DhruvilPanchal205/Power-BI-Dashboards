@@ -31,7 +31,7 @@ The goal of this project is to demonstrate the ability to:
 - **Forage Platform**: This job simulation was completed on Forage, providing a real-world scenario for data analytics.
 
 ## Certification and Supporting Documentation
-- [Accenture North America - Data Analytics and Visualization Job Simulation Certificate](#)
+- Accenture North America/hzmoNKtzvAzXsEqx8_Accenture North America_DZzyqnoQXgn5MxT25_1727726200613_completion_certificate.pdf
 - Accenture North America/Accenture North America - Data Analysis.pdf
 
 ## How to Use
