@@ -34,7 +34,7 @@ The insights from the analysis were visualized using an interactive dashboard. T
 - **Geographical Insights**: Visualizations highlighting regional differences in sales performance.
 - **Seasonal Trends**: Line charts showing how sales vary by month and quarter.
 
-**[Link to Dashboard (if applicable)]**
+**[DashBoard](Adidas US Sales Analysis/Untitled.pdf)**
 
 ## Technologies Used
 - **Python**: Data manipulation and analysis using libraries like Pandas and NumPy.
