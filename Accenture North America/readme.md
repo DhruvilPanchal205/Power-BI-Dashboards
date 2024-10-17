@@ -31,7 +31,7 @@ The goal of this project is to demonstrate the ability to:
 - **Forage Platform**: This job simulation was completed on Forage, providing a real-world scenario for data analytics.
 
 ## Certification and Supporting Documentation
-[Dashboard](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/Accenture%20North%20America/Accenture%20North%20America%20-%20Data%20Analysis.pdf)
+[Dashboard](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/Accenture%20North%20America/Accenture%20North%20America%20-%20Data%20Analysis.pdf) (#)
 [Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_DZzyqnoQXgn5MxT25_1727726200613_completion_certificate.pdf)
 
 ## How to Use
