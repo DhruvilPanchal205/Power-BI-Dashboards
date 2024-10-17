@@ -12,7 +12,14 @@ This project aims to analyze consumer complaints in the U.S. finance sector, pro
 
 ## Data Collection
 
-The primary data source for this project is the Consumer Financial Protection Bureau (CFPB) database, which includes data on consumer complaints submitted against financial institutions.
+The primary data source for this project is the [Kaggle Consumer Finance Complaints Dataset](https://www.kaggle.com/datasets), which includes data on consumer complaints submitted against financial institutions. The dataset contains information such as:
+
+- **Complaint ID**: Unique identifier for each complaint.
+- **Product**: The financial product associated with the complaint.
+- **Issue**: The nature of the complaint.
+- **Consumer’s State**: The state where the consumer resides.
+- **Submission Date**: The date the complaint was submitted.
+- **Company Response**: The company's response to the complaint.
 
 ## Data Operations
 
@@ -46,13 +53,14 @@ The final dashboard created in Power BI includes:
 - **Geographic Insights**: Maps highlighting complaint distributions by state.
 - **Consumer Demographics**: Bar charts illustrating complaint trends across different demographics.
 
-![Dashboard Screenshot](link-to-your-screenshot)  *(Insert a screenshot of the dashboard here)*
+[Dashboard]((https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/US%20Finance%20Consumer%20Complaints/US%20Consumer%20Complaint%20Analysis.pdf)) 
 
 ## Technologies Used
 
 - **Data Tools**: Microsoft Excel, Power BI
 - **Programming Languages**: Python (for data processing and EDA, if applicable)
-- **Data Source**: US Finance Consumer Complains - KAGGLE
+- **Data Source**: Kaggle Consumer Finance Complaints Dataset
+### Prerequisites
 
-## Thank You
-
+- Microsoft Excel
+- Power BI Desktop
