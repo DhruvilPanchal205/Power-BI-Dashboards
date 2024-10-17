@@ -53,7 +53,7 @@ The final dashboard created in Power BI includes:
 - **Geographic Insights**: Maps highlighting complaint distributions by state.
 - **Consumer Demographics**: Bar charts illustrating complaint trends across different demographics.
 
-[Dashboard](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/US%20Finance%20Consumer%20Complaints/US%20Consumer%20Complaint%20Analysis.pdf)
+Click Here:[Dashboard](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/US%20Finance%20Consumer%20Complaints/US%20Consumer%20Complaint%20Analysis.pdf)
 
 ## Technologies Used
 
