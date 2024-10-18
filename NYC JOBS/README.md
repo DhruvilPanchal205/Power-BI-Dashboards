@@ -19,7 +19,7 @@ The dataset includes information on job postings with the following columns:
 
 ## Dashboard Visualizations
 
-[NYC Jobs 2023](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/NYC%20JOBS/NYC%20JOBS%202023.pdf)
+![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/NYC%20JOBS/Screenshot%202024-10-18%20000721.png)
 
 ## How to Use
 
