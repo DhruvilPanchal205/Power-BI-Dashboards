@@ -9,8 +9,8 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 
 **Dashboard Highlights:**
 - Developed a dynamic dashboard using Power BI to analyze sales performance, customer segmentation, and product performance.
-- Implemented advanced DAX measures for year-over-year (YoY) and month-over-month (MoM) comparisons.
-- Interactive visualizations allowed stakeholders to drill down into region-wise and product-level insights.
+- Implemented advanced DAX measures to categorize sentiment by score and visualize total positive and negative sentiments.
+- Interactive visualizations allowed stakeholders to explore sentiment distribution across various categories and drill down into specific topics.
 
 **Key Insights:**
 - Identified underperforming regions and suggested targeted marketing campaigns.
