@@ -4,8 +4,8 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 
 ## 1. Accenture North America - Job Simulation
 
-[**Full Project**](#link-to-project)
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/assets/dashboard_screenshot.png)
+[**Full Project**](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/tree/main/Accenture%20North%20America)
+![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/Accenture%20North%20America/Screenshot%202024-10-18%20001513.png)
 
 **Dashboard Highlights:**
 - Developed a dynamic dashboard using Power BI to analyze sales performance, customer segmentation, and product performance.
@@ -21,7 +21,8 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 
 ## 2. US Finance Consumer Complaints
 
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/assets/dashboard_screenshot.png)
+[**Full Project**](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/tree/main/US%20Finance%20Consumer%20Complaints)
+![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/US%20Finance%20Consumer%20Complaints/Screenshot%202024-10-18%20000753.png)
 
 **Dashboard Highlights:**
 - Created an interactive Tableau dashboard to track and visualize consumer complaints across the US finance industry.
@@ -37,7 +38,8 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 
 ## 3. Adidas US Sales Analysis
 
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/assets/dashboard_screenshot.png)
+[**Full Project**](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/tree/main/Adidas%20US%20Sales%20Analysis)
+![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/Adidas%20US%20Sales%20Analysis/Screenshot%202024-10-18%20000622.png)
 
 **Dashboard Highlights:**
 - Designed a sales performance dashboard in Power BI, focusing on product categories, regions, and seasonal trends.
@@ -53,7 +55,8 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 
 ## 4. IMDb Top 1000 Movies
 
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/assets/dashboard_screenshot.png)
+[**Full Project**](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/tree/main/IMDb%20Top%201000%20Movies)
+![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/IMDb%20Top%201000%20Movies/Screenshot%202024-10-18%20000530.png)
 
 **Dashboard Highlights:**
 - Created a Tableau dashboard to explore the IMDb Top 1000 movies dataset, analyzing ratings, genres, and box office revenue.
@@ -69,7 +72,8 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 
 ## 5. NYC JOBS 2023
 
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/assets/dashboard_screenshot.png)
+[**Full Project**](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/tree/main/NYC%20JOBS)
+![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/NYC%20JOBS/Screenshot%202024-10-18%20000721.png)
 
 **Dashboard Highlights:**
 - Developed a comprehensive dashboard in Power BI to analyze job listings across New York City in 2023.
