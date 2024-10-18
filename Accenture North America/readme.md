@@ -30,9 +30,12 @@ The goal of this project is to demonstrate the ability to:
 - **Microsoft Excel**: For initial data cleaning operations.
 - **Forage Platform**: This job simulation was completed on Forage, providing a real-world scenario for data analytics.
 
-## Certification and Supporting Documentation
-- [Dashboard](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/Accenture%20North%20America/Accenture%20North%20America%20-%20Data%20Analysis.pdf)
-- [Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_DZzyqnoQXgn5MxT25_1727726200613_completion_certificate.pdf)
+## Dashboard Showcase
+![Dashboard](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/Accenture%20North%20America/Screenshot%202024-10-18%20001513.png)
+[Download PDF of Dashboard Report](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/Accenture%20North%20America/Accenture%20North%20America%20-%20Data%20Analysis.pdf)
+
+## Completion Certification
+![Certification](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/Accenture%20North%20America/Screenshot%202024-10-18%20000846.png)
 
 ## How to Use
 1. Download the raw data and Power BI file from the repository.
