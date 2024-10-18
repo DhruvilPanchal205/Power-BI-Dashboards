@@ -55,7 +55,9 @@ The final dashboard, created using Power BI, features the following:
 - **Time Series Analysis**: Graphs showing how movie ratings and votes have trended over different decades.
 - **Duration vs. Rating**: Scatterplots examining the relationship between movie runtime and ratings.
 
-![Dashboard Screenshot](link-to-your-screenshot) *(Insert a screenshot of your Power BI dashboard here)*
+![Dashboard](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/IMDb%20Top%201000%20Movies/Screenshot%202024-10-18%20000530.png)
+[Download PDF of Dashboard Report](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/IMDb%20Top%201000%20Movies/Top%201000%20IMDb%20Movies%20Analysis.pdf)
+
 
 ## Technologies Used
 
