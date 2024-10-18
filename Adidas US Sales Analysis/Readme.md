@@ -40,7 +40,6 @@ The insights from the analysis were visualized using an interactive dashboard. T
 ## Technologies Used
 - **Python**: Data manipulation and analysis using libraries like Pandas and NumPy.
 - **Power BI / Tableau**: For building the interactive dashboard.
-- **Jupyter Notebook**: Development environment for running the analysis and visualizations.
 - **Kaggle**: Data source for Adidas sales dataset.
 
 ## Conclusion
