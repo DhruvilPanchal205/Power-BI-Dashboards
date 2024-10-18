@@ -25,7 +25,7 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 ![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/US%20Finance%20Consumer%20Complaints/Screenshot%202024-10-18%20000753.png)
 
 **Dashboard Highlights:**
-- Created an interactive Tableau dashboard to track and visualize consumer complaints across the US finance industry.
+- Created an interactive Power BI dashboard to track and visualize consumer complaints across the US finance industry.
 - Integrated filters for complaint type, company, state, and response timelines to explore data in-depth.
 - Visualized trends and patterns across time, complaint categories, and resolutions.
 
@@ -59,7 +59,7 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 ![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/IMDb%20Top%201000%20Movies/Screenshot%202024-10-18%20000530.png)
 
 **Dashboard Highlights:**
-- Created a Tableau dashboard to explore the IMDb Top 1000 movies dataset, analyzing ratings, genres, and box office revenue.
+- Created a Power BI dashboard to explore the IMDb Top 1000 movies dataset, analyzing ratings, genres, and box office revenue.
 - Implemented filters for genres, years, and countries to provide a detailed exploration of movie trends.
 - Used scatter plots and bar charts to visualize correlations between budget, revenue, and ratings.
 
