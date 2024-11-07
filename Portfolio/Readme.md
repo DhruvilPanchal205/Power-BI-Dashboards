@@ -73,7 +73,7 @@ Welcome to my portfolio repository! This collection of projects showcases my dat
 ## 5. NYC JOBS 2023
 
 [**Full Project**](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/tree/main/NYC%20JOBS)
-![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/NYC%20JOBS/Screenshot%202024-10-18%20000721.png)
+![Dashboard Screenshot](https://github.com/DhruvilPanchal205/Power-BI-Dashboards/blob/main/NYC%20JOBS/image.png)
 
 **Dashboard Highlights:**
 - Developed a comprehensive dashboard in Power BI to analyze job listings across New York City in 2023.
